@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitnayak_eth" target="blank"><img src="https://img.shields.io/twitter/follow/ankitnayak_eth?logo=twitter&style=for-the-badge" alt="ankitnayak_eth" /></a> </p>
 
-- 🌱 I’m currently learning **Mern stack, React native**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **react, node.js**
+- 💬 Ask me about **Next.js, React.js, Node.js, React Native**
 
 - 📫 How to reach me **ankitkumarnayak1234@gmail.com**
 
